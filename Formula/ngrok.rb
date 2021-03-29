@@ -2,9 +2,9 @@ class Ngrok < Formula
   desc ''
   homepage 'https://dl.equinox.io/ngrok/ngrok'
 
-  url 'https://bin.equinox.io/a/84hZUbgem8k/ngrok-2.3.37-darwin-amd64.tar.gz'
-  sha256 '5c91383c9c4e52d8430514d8599af48d6916c6cfbe8a7894a4dfb783dec7eab3'
-  version '2.3.37'
+  url 'https://bin.equinox.io/a/cRNJMcSHdc9/ngrok-2.3.38-darwin-amd64.tar.gz'
+  sha256 'eb543333603ca18dd7b47cc8c1da2c01e2ab55e726ac38f4b2d1480da89465d1'
+  version '2.3.38'
 
   def install
     bin.install 'ngrok'
